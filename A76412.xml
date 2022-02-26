@@ -1,0 +1,228 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A list of vvoods, under woods, timber, and trees felled, and sold out of the the King, and Queen, their Majesties forrests, chases, parks, manors, and lands: within the counties of Kent, Sussex, Surrey, Hampshire, Berks, and Middlesex, for the use and service of the Parliament, by order of the committee of the revenue, in foure years space last past. / Attested under the hands of Mr. John Bently, surveyor of his Majesties lands.</title>
+            <author>Bently, John.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A76412</idno>
+            <idno type="STC">Wing B1914</idno>
+            <idno type="STC">Thomason E460_2</idno>
+            <idno type="STC">ESTC R205105</idno>
+            <idno type="EEBO-CITATION">99864543</idno>
+            <idno type="PROQUEST">99864543</idno>
+            <idno type="VID">116773</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A76412)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 116773)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 73:E460[2])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A list of vvoods, under woods, timber, and trees felled, and sold out of the the King, and Queen, their Majesties forrests, chases, parks, manors, and lands: within the counties of Kent, Sussex, Surrey, Hampshire, Berks, and Middlesex, for the use and service of the Parliament, by order of the committee of the revenue, in foure years space last past. / Attested under the hands of Mr. John Bently, surveyor of his Majesties lands.</title>
+                  <author>Bently, John.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the yeer. 1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Annotation on Thomason copy: "August ye 17th".</note>
+                  <note>Reproductions of the originals in the British Library (Yhomason Tracts) and the Goldsmiths'-Kress library of economic literature.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Parliament --  Appropriations and expenditures --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Confiscations and contributions --  Early works to 1800.</term>
+               <term>Kent (England) --  History --  Early works to 1800.</term>
+               <term>Sussex (England) --  History --  Early works to 1800.</term>
+               <term>Surrey (England) --  History --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-11</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-03</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2013-03</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:116773:1" rendition="simple:additions"/>
+            <p> A LIST OF VVoods, Under woods, Timber, and Trees felled, and ſold out of the <hi>King,</hi> and <hi>Queen,</hi> their Majeſties Forreſts, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>haſes, Parks, Manors, and Lands:</p>
+            <p>Within the Counties of <hi>Kent, Suſſex, Surrey, Hampſhire, Berks,</hi> and <hi>Middleſex,</hi> for the uſe and ſervice of the Parliament, by Order of the Committee of the Revenue, in foure years ſpace laſt paſt.</p>
+            <p>Atteſted under the hands of Mr. <hi>John Bently,</hi> Surveyor of his Majeſties Lands.</p>
+            <p>Printed in the Yeer. 1648.</p>
+            <pb facs="tcp:116773:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:116773:2"/>
+            <head>
+               <hi>The Account of</hi> John Bentley <hi>Surveyor and Woodward of all the Kings and Queenes Majeſties Forreſts, Chaſes, Parkes, Mannors and Lands, within the Counties of</hi> Kent, Suſ<g ref="char:EOLhyphen"/>ſex, Surry, <hi>Hampſhire, Berks, and Middle<g ref="char:EOLhyphen"/>ſex, and by authority from the right Honour<g ref="char:EOLhyphen"/>able the Committee of Lords and Commons for His Majeſties Revenue ſitting at</hi> Weſtmin<g ref="char:EOLhyphen"/>ſter, <hi>of all Woods, Timber and Trees, felled and ſold, within the limits aforeſaid, by Order or warrant from the ſaid Honourable Commit<g ref="char:EOLhyphen"/>tee, either ſeverally by himſelfe or jointly with any other betweene</hi> Midſummer 1644. <hi>and</hi> Midſumer 1648.</head>
+            <p>SIr <hi>Tho. Wilſingham</hi> never felled or cauſed to be felled any timber in the manner of <hi>Eltham,</hi> or in any of the parkes there, but what hath been felled, hath been felled by
+<pb n="2" facs="tcp:116773:3"/> me according to Order of the Committee of the Mannor.</p>
+            <p>
+               <hi>Imprimis</hi> by Order from the ſaid honou<g ref="char:EOLhyphen"/>rable Committee bearing date 8 of <hi>Novem.</hi> 1644 made unto Sir <hi>Tho. Walſingham</hi> Knight and the ſaid accountant, was ſold unto <hi>Tho. Foſter</hi> of <hi>Mottingham</hi> in the County of <hi>Kent,</hi> and <hi>Thomas Wiley</hi> of <hi>Eltham</hi> in the ſaid Coun<g ref="char:EOLhyphen"/>ty Yeoman, forty nine Acres of Coppice wood, lying within the Mannor o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Eltham, viz.</hi> One Coppice called by the name of <hi>Ha<g ref="char:EOLhyphen"/>ſell</hi> wood, and parcell of two other Coppi<g ref="char:EOLhyphen"/>ces neer thereunto, called by the name of <hi>Shephards</hi> Leaye, and <hi>Oxe</hi> Leaye, containing together, the ſaid quantity of 49 Acres ſtatute meaſure, after the rate and price of 3<hi>li. per</hi> Acre, five Acres of the ſaid forty and nine, being allowed them without price, in lew and reſpect of div<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rs waſts and ſpoyles made therein by the poor people in thoſe parts, and certaine Lanes and Cart pathes therein, which did amount unto the ſum of 132<hi>li.</hi>
+            </p>
+            <p>Of which ſum there was paid unto <hi>Tho. Fawconbridge</hi> Eſq; receiver Generall for His Majeſties revenue at <hi>Weſtminſter,</hi> on the ſixt
+<pb n="5" facs="tcp:116773:3"/> day of Decem. 1644 According to the ſaid Order, the ſum of 80<hi>li.</hi>
+            </p>
+            <p>And the remainder thereof was paid unto him on the 14 day of <hi>Sept.</hi> 1645 being 52<hi>li.</hi>
+            </p>
+            <p>Item by one other Order from the ſaid ho<g ref="char:EOLhyphen"/>nourable Committee bearing date 25th day of <hi>Sept,</hi> 1645 made unto the ſaid Sir <hi>Thomas Walſingham</hi> and the ſaid accountant, was ſold unto the ſaid <hi>Thomas Foſter,</hi> and <hi>Thomas Wi<g ref="char:EOLhyphen"/>ley,</hi> the remainder of <hi>Shephards</hi> Leaye, and <hi>Oxe</hi> Leaye, which being ſince meaſured, did amount to 88 Acres, at the rate and price of fifty ſhillings per Acre, at 18 foote pole, and came at the price aforeſaid to the ſumme of. 220<hi>li.</hi>
+            </p>
+            <p>Whereof paid to the ſaid receiver Gen<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll on the 24th of <hi>March</hi> 1645 the ſum of 6<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <hi>li.</hi>
+            </p>
+            <p>And on the 14th <hi>Novem.</hi> 1645 the ſum of, 50<hi>li.</hi>
+            </p>
+            <p>And on or about the 24 day of <hi>June</hi> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>6<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>8 the ſum of, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>0<hi>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>i.</hi>
+            </p>
+            <p>Disburſt by the ſaid accountant for the Coppices before named containing, Rods as by the workemens bills may appear the ſum of 7<hi>li.</hi> 2<hi>s.</hi> 2<hi>d.</hi>
+            </p>
+            <pb n="4" facs="tcp:116773:4"/>
+            <p> Remaining in the ſaid accountant hands the ſum of 2<hi>li.</hi> 17<hi>s.</hi> 10.</p>
+            <p>
+               <hi>Item,</hi> by the like Order from the ſaid ho<g ref="char:EOLhyphen"/>nourable Committee bearing date 7 day of Decemb. 1644. made unto the ſaid Sir <hi>Tho<g ref="char:EOLhyphen"/>mas Walſingham,</hi> and the ſaid Accompt was ſold unto one <hi>Richard Eaſt</hi> of Lambeth, one Coppice or Spring of Oake and Aſpe, con<g ref="char:EOLhyphen"/>taining about twenty ſix Acres, being with<g ref="char:EOLhyphen"/>in Horne Parke, alias Lee Parke, in the Man<g ref="char:EOLhyphen"/>nor of Eltham aforeſaid, for the ſumme of 220<hi>li.</hi>
+            </p>
+            <p>Whereof paid unto the Receiver Generall on the 13. day of March 1644. the ſumme of 100<hi>li.</hi>
+            </p>
+            <p>And on the 21 day of Septem. following the ſumme of 120<hi>li.</hi>
+            </p>
+            <p>
+               <hi>Item,</hi> by the before mentioned Order of the 25 of September 1645, was ſold unto the aforeſaid <hi>Richard Eaſt,</hi> and one <hi>David Powell</hi> a Fletcher in Grubſtreet London, one other Coppice of Oake and Aſpe in Horne Parke aforeſaid after the rate and price of ten pound <hi>per</hi> Acre, which did containe <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Acres, and doth amount to the ſumme of 100<hi>li.</hi>
+            </p>
+            <pb n="5" facs="tcp:116773:4"/>
+            <p> And the ſaid <hi>David Powel</hi> became bound to the ſaid Receiver Generall, as part thereof for the payment of 40 <hi>li.</hi>
+            </p>
+            <p>Paid unto the Receiver Generall on the ninth day of Janu. 1645. the ſumme of 40 <hi>li.</hi>
+            </p>
+            <p>Received of them ſince by the ſaid Ac<g ref="char:EOLhyphen"/>comptant, 60 <hi>li.</hi>
+            </p>
+            <p>The charges of fencing of the ſaid Cop<g ref="char:EOLhyphen"/>pice, was by the ſaid Order to bee defraied out of money ariſing thereby; and there was disburſed as followeth:</p>
+            <p>Unto <hi>John Spicer</hi> Carpenter for the ray<g ref="char:EOLhyphen"/>ling in thereof, containing a 130 Rods, with gates for the ſame, at 20 <hi>d. per</hi> Rod, as by his Acquittance appeares, 10<hi>li.</hi> 16<hi>s.</hi> 8<hi>d.</hi>
+            </p>
+            <p>Unto <hi>Thomas Glyn</hi> for the carriage of ſtuffe, and for the ditching and hedging thereof, and for Iron worke for the ſame, the ſumme of 7<hi>li.</hi> 15<hi>s.</hi>
+            </p>
+            <p>More paid unto <hi>Thomas Glyn</hi> on the 28 of June 1648, for and towards the new repay<g ref="char:EOLhyphen"/>ing and repleniſhing of the hedges and ditches of the two Coppices in Horne Park, formerly fenced, but ſince broken downe by the Deere, and therefore of neceſſity to be
+<pb n="6" facs="tcp:116773:5"/> againe repaired the ſumme of 3<hi>li.</hi>
+            </p>
+            <p>Remaining in the ſaid Accomptant hands the ſumme of 18<hi>li.</hi> 8<hi>s.</hi> 4<hi>d</hi>
+            </p>
+            <p>The totall of all the wood ſales within the Mannor aforeſaid, and time limited as aforeſaid, doe amount unto the ſumme of 602<hi>li.</hi>
+            </p>
+            <p>Whereof paid in to the receipt as aforeſaid, the ſumme of 602<hi>li.</hi>
+            </p>
+            <p>Due, and owing <hi>by David Powell, Fletcher,</hi> as aforeſaid, the ſumme of 20<hi>li.</hi>
+            </p>
+            <p>Disburſed for the fencing of the ſaid woods as aforeſaid, the ſumme of 28<hi>li.</hi> 13<hi>s.</hi> 10<hi>d</hi>
+            </p>
+            <p>Remaining in the ſaid Accomptant hands the ſumme of 21<hi>li.</hi> 6<hi>s.</hi> 2<hi>d.</hi>
+            </p>
+            <closer>
+               <dateline>
+                  <date>20. day July 1648</date>
+               </dateline>
+               <signed>
+                  <hi>John Bently</hi> Su<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>veyer.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
